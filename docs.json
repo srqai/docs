@@ -76,6 +76,12 @@
           "icon": "book-open-cover"
         },
         {
+          "name": "API Reference",
+          "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples",
+          "url": "api-reference",
+          "icon": "square-terminal"
+        },  
+        {
           "anchor": "Community",
           "href": "https://mintlify.com/community",
           "icon": "slack"
