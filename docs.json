@@ -16,7 +16,7 @@
     "tabs": [
       {
         "tab": "API Reference",
-        "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples",
+        "openapi": "https://spec.speakeasy.com/v0/1/authlete-api-explorer-with-code-samples",
         "url": "api-reference",
         "icon": "square-terminal"
       }
@@ -24,7 +24,7 @@
     "anchors": [
       {
         "anchor": "API Reference",
-        "openapi": "https://spec.speakeasy.com/vartana/qwerty/authlete-api-explorer-with-code-samples",
+        "openapi": "https://spec.speakeasy.com/v0/1/authlete-api-explorer-with-code-samples",
         "url": "api-reference",
         "icon": "square-terminal"
       },
